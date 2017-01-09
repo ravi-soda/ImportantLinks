@@ -13,3 +13,5 @@ https://www.petrikainulainen.net/programming/spring-framework/spring-data-jpa-tu
 http://www.javatpoint.com/spring-and-jpa-integration
 https://medium.com/opinionated-angularjs/techniques-for-authentication-in-angularjs-applications-7bbf0346acec#.umqfms5ow
 https://www.tutorialspoint.com/angularjs/angularjs_nav_menu.htm
+
+http://www.roytuts.com/programmatic-transaction-management-example-in-spring/
