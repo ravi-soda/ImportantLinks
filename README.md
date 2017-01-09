@@ -14,4 +14,12 @@ http://www.javatpoint.com/spring-and-jpa-integration
 https://medium.com/opinionated-angularjs/techniques-for-authentication-in-angularjs-applications-7bbf0346acec#.umqfms5ow
 https://www.tutorialspoint.com/angularjs/angularjs_nav_menu.htm
 
+http://phpfiddle.org/
+http://www.codejava.net/java-se/jdbc/connect-to-microsoft-sql-server-via-jdbc
+http://stackoverflow.com/questions/16122547/sql-server-jdbc-connection
+http://stackoverflow.com/questions/11820799/com-microsoft-sqlserver-jdbc-sqlserverexception-the-tcp-ip-connection-to-the-ho
+http://stackoverflow.com/questions/17552457/how-do-i-upload-eclipse-projects-to-github ***
+
 http://www.roytuts.com/programmatic-transaction-management-example-in-spring/
+http://www.dineshonjava.com/2012/12/programmatic-transaction-management.html#.WHKg7Pl97b0
+http://www.codingpedia.org/ama/java-persistence-example-with-spring-jpa2-and-hibernate/ ***
