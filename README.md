@@ -23,3 +23,8 @@ http://stackoverflow.com/questions/17552457/how-do-i-upload-eclipse-projects-to-
 http://www.roytuts.com/programmatic-transaction-management-example-in-spring/
 http://www.dineshonjava.com/2012/12/programmatic-transaction-management.html#.WHKg7Pl97b0
 http://www.codingpedia.org/ama/java-persistence-example-with-spring-jpa2-and-hibernate/ ***
+
+https://stackoverflow.com/questions/5495534/java-net-connectexception-localhost-127-0-0-18080-connection-refused
+http://www.baeldung.com/hoverfly
+https://spring.io/guides/tutorials/bookmarks/
+https://stackoverflow.com/questions/8960605/how-to-consume-rest-urls-using-spring-mvc
