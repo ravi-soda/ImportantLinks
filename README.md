@@ -28,3 +28,5 @@ https://stackoverflow.com/questions/5495534/java-net-connectexception-localhost-
 http://www.baeldung.com/hoverfly
 https://spring.io/guides/tutorials/bookmarks/
 https://stackoverflow.com/questions/8960605/how-to-consume-rest-urls-using-spring-mvc
+
+https://www.upgrad.com/blog/open-source-projects-for-beginners/
