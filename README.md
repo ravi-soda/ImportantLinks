@@ -30,3 +30,6 @@ https://spring.io/guides/tutorials/bookmarks/
 https://stackoverflow.com/questions/8960605/how-to-consume-rest-urls-using-spring-mvc
 
 https://www.upgrad.com/blog/open-source-projects-for-beginners/
+
+Free API's 
+https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
