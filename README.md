@@ -33,3 +33,5 @@ https://www.upgrad.com/blog/open-source-projects-for-beginners/
 
 Free API's 
 https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
+
+[5-essential-patterns-software-architecture](https://www.redhat.com/architect/5-essential-patterns-software-architecture)
