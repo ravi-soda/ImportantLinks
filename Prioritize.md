@@ -1,5 +1,5 @@
 ```mermaid
-quadrantChart
+  quadrantChart
     title Reach and engagement of campaigns
     x-axis Low Reach --> High Reach
     y-axis Low Engagement --> High Engagement
