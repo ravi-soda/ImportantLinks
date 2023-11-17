@@ -35,3 +35,5 @@ Free API's
 https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
 
 [5-essential-patterns-software-architecture](https://www.redhat.com/architect/5-essential-patterns-software-architecture)
+
+Scope of work : https://docs.google.com/document/d/1QHQanQwSkKSEoAIlOn_BFlVJk4lnTEf9gLEzjpwWmjs/edit?pli=1#heading=h.ds6lpjj1acau
