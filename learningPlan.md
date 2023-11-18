@@ -4,7 +4,11 @@
       A[Learning]-->F[FrontEnd]-->react[ReactJS];
       A-->B[Backend]-->node[NodeJs];
       A-->DevOps-->AWS
-      
+
+      F--> web[HTML5, css3, Responsive Design]
+      F--> design[Adobe photoshop illustrator, inDesign, DreamWeaver]
+      F--> additional[Adobe Premiere, After Effects, 3D modeling, photography]
+
       DevOps-->CI/CD
       react-->MUI[Material UI]
       react-->Redux
