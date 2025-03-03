@@ -1,0 +1,59 @@
+Intelligence - ability to acquire and apply knowledge
+
+AI - develop systems for reasoning. Uses models built by ML to reason about world with intelligent behaviour
+
+Deep Learning - continually analyze data with a complex logic structure and draw conclusions like human
+
+Statistics - collecting, analyzing, presenting, interpreting data
+
+ML - predicts with models learn with data without explicitly programmed. Builds models from data mining.
+
+Data mining - uses statistics and other learning ways to discover knowledge in data.
+
+Knowledge - patterns and deep learning acquired over time by human.
+
+Wisdom = knowing how and where to use the knowledge.
+
+---------------------------
+
+ML: 
+				   --------------
+	Data --------------------> |		|
+	output/			   | Computer	| --> program
+	historical events -------> |		|
+	experiences		   --------------
+
+
+Five number summary 
+1. min
+2. max
+3. first quartile: 25th
+4. second quartile
+5. third quartile
+
+
+quartile
+
+c = P/100 * (n + 1)
+
+first quartile 
+
+Q1 = 25/100 * (8 + 1) = 2.25
+cut point is between 2 and 3
+
+
+---------- ------------------
+Covariance & correlation measure relationship between continuous variables
+
+Relationship - one attrib changes - what is influence on other
+- positive relationship
+- negative relationship
+
+covariance - direction of var relationship (+infinite (+ve covar), -infinite(-ve covar))
+correlation - direction & Strength of var rel (-1 to +1, 0 = no relation)
+
+f 
+	
+
+
+
