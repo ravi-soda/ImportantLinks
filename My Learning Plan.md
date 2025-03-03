@@ -1,5 +1,5 @@
 My Learning Plan 
-[[_TOC_]]
+[_TOC_]
 
 ----------------------
 Lucid chart:
