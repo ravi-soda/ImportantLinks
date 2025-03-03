@@ -109,4 +109,43 @@ https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_qu
 Salesforce apex testing - code that triggers flow from apex
 https://www.reddit.com/r/salesforce/comments/17pzk1c/has_anyone_ever_created_a_apex_test_class_for_a/
 
+### Python programming for Adobe InDesign
+
+
+
+Excel file type : Formatted Rent Data 
+
+Excel File: C:\Users\rsoda\projects\bkup\indesignPOC\Phoenix IS Documents Excel to ID Integration\2025 West OM\Pro Forma Model_2025 West_6.6.23.xlsm
+ 
+Sheet : 'Summary'
+
+range : A6:L20
+ 
+** Give a way for users to remove/select Rows and Columns that he wants to export or use in the Plot below
+ 
+> Display as table 
+> Display as vertical bar chart (propertyNames vs Avg.Rent)
+ 
+-------
+Solution:
+streamlit-AgGrid 
+https://streamlit-aggrid.readthedocs.io/en/docs/Usage.html
+https://discuss.streamlit.io/t/python-streamlit-ag-grid-dynamic-edit/61158/2
+https://www.youtube.com/watch?v=Zs9-8trPadU&t=596s
+**https://www.youtube.com/watch?v=sOFM334iILs&t=10s
+ 
+Pandas
+https://pandas.pydata.org/pandas-docs/version/0.25/user_guide/style.html
+get excel cell style by pandas: https://stackoverflow.com/questions/47857112/get-excel-cell-background-color-in-pandas-read-excel
+Export dataframe into XML
+https://www.askpython.com/python-modules/pandas/dataframe-to-xml
+Flask
+https://medium.com/analytics-vidhya/automate-your-pandas-workflow-with-flask-docker-28e5ab461288
+ 
+XML import in InDesign:
+https://www.youtube.com/watch?v=kTcvNQTYgrA
+Usage — streamlit-aggrid 0.2.3 documentation
+ 
+
+
 
