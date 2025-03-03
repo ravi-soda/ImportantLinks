@@ -146,6 +146,46 @@ XML import in InDesign:
 https://www.youtube.com/watch?v=kTcvNQTYgrA
 Usage — streamlit-aggrid 0.2.3 documentation
  
+https://saturncloud.io/blog/how-to-add-a-worksheet-to-an-existing-excel-file-with-pandas/
 
+sheet name = INPUT - Pro Forma
+D:46-H:94
+ 
+index_col=None, header=None
+ 
+na_values=['NA'], parse_cols = 37
+ 
+skiprows: [0-
+ 
+df = pd.read_excel(file_location,sheet_name='Sheet1', usecols="A,C,F")
+2. Range of Columns and selected column
+ 
+df = pd.read_excel(file_location,sheet_name='Sheet1', usecols="A:F,H")
+3. Multiple Ranges
+ 
+df = pd.read_excel(file_location,sheet_name='Sheet1', usecols="A:F,H,J:N")
+4. Range of columns
+ 
+df = pd.read_excel(file_location,sheet_name='Sheet1', usecols="A:N")
+ 
+How to drop rows of Pandas DataFrame whose value in a certain column is NaN
+ 
+ 
+df.dropna()
+Drop rows with any column having NA/null data.
+ 
+df.fillna(value)
+Replace all NA/null data with value
 
+JSON query support for Postgres DB 
+https://vincit.github.io/objection.js/recipes/json-queries.html
 
+https://forums.docker.com/t/nodejs-docker-container-cant-connect-to-mysql-on-host/115221
+
+ 
+ 
+
+[Knex.js Tutorial For Beginners](https://blog.shahednasser.com/knex-js-tutorial-for-beginners/#:~:text=Knex.js%20Tutorial%20For%20Beginners%201%20Prerequisites%20Before%20we,Insert%20Data%20with%20Knex.js%20...%208%20Conclusion%20)
+In this tutorial, you'll learn how to use Knex.js with Node.js and Express.
+
+ 
