@@ -1,4 +1,5 @@
 My Learning Plan 
+[[_TOC_]]
 
 ----------------------
 Lucid chart:
@@ -82,5 +83,25 @@ https://kodekloud.com/blog/convert-bash-string-to-lowercase/ **
 #### linux command to split file:
 split --additional-suffix=.csv -l 200000 PropertySaleFull.csv New_PropertySaleFull.csv
 
+https://grafana.com/tutorials/create-alerts-with-logs/
+ 
+https://grafana.com/solutions/kubernetes/?pg=dashboards&plcmt=kubernetes-cron-and-batch-job-monitoring
+How to create alert rules with log data | Grafana Labs
+Create alerts with Logs
+ 
+Beautiful AI : https://app.apollo.io/#/public/conversations/673e26f9e7759502cf04d6e1?shareId=673e5eaa6a4e8301b1564631
+Apollo
+Apollo helps B2B companies scale outbound sales.
 
+
+ #### Grafana 
+Pavan Elthepu: Observability vs Monitoring: https://www.youtube.com/watch?v=vY61h6cSkVA&list=PLrMP04WSdCjrL4OBnaqXRy8X3XEd7ZrKf
+https://grafana.com/docs/grafana/latest/fundamentals/exemplars/
+Pavan Elthepu: Grafana Dashboards: https://www.youtube.com/watch?v=aiLkHtmrSAU
+Pavan Elthepu: Prometheus Query Language: https://www.youtube.com/watch?v=FLT0d8fyhK4&list=PLrMP04WSdCjrL4OBnaqXRy8X3XEd7ZrKf&index=8
+ 
+Grafana metrics documentation: https://github.com/kubernetes/kube-state-metrics/blob/main/docs/metrics/workload/pod-metrics.md
+ - YouTube
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+ 
 
