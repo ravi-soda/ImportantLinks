@@ -70,5 +70,17 @@ https://www.enterpriseintegrationpatterns.com/patterns/messaging/
 https://patrykorwat.medium.com/practical-golang-code-generation-bf8835ec1173
 https://blog.visual-paradigm.com/20454-2/
 
+## How to automate common tasks
+
+https://earthly.dev/blog/automate-tasks-shell-scripts/
+https://dev.to/devopsking/automation-with-bash-creating-a-script-to-install-and-configure-applications-on-multiple-flavours-of-os-4o0k
+https://www.freecodecamp.org/news/automate-project-github-setup-mac/
+https://thealpha06.medium.com/create-github-repositories-like-never-before-35e9e1df826c
+https://dev.to/gniches/clone-yours-github-repositories-using-shell-script-3o33
+https://kodekloud.com/blog/convert-bash-string-to-lowercase/ **
+
+#### linux command to split file:
+split --additional-suffix=.csv -l 200000 PropertySaleFull.csv New_PropertySaleFull.csv
+
 
 
