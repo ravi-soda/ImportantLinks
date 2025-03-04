@@ -100,6 +100,7 @@ https://grafana.com/docs/grafana/latest/fundamentals/exemplars/
 Pavan Elthepu: Grafana Dashboards: https://www.youtube.com/watch?v=aiLkHtmrSAU
 Pavan Elthepu: Prometheus Query Language: https://www.youtube.com/watch?v=FLT0d8fyhK4&list=PLrMP04WSdCjrL4OBnaqXRy8X3XEd7ZrKf&index=8
  
+https://kubernetes.io/docs/reference/instrumentation/metrics/
 Grafana metrics documentation: https://github.com/kubernetes/kube-state-metrics/blob/main/docs/metrics/workload/pod-metrics.md
  - YouTube
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
