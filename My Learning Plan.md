@@ -109,3 +109,6 @@ https://grafana.com/docs/grafana/latest/datasources/prometheus/query-editor/
 
 sum by(container) (node_namespace_pod_container:container_cpu_usage_seconds_total:sum_rate{namespace="berkadia360", pod="sales-ov-sync-cron-7c7477bb87-qq6lm", container!="POD", cluster="prodberk8s.com"})
 https://build-your-own-x.vercel.app
+
+
+[nodejs-errors](https://betterstack.com/community/guides/scaling-nodejs/nodejs-errors/)
