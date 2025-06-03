@@ -112,3 +112,5 @@ https://build-your-own-x.vercel.app
 
 
 [nodejs-errors](https://betterstack.com/community/guides/scaling-nodejs/nodejs-errors/)
+
+[How to Extract Pages from a PDF and Render Them with JavaScript](https://www.freecodecamp.org/news/extract-pdf-pages-render-with-javascript/)
